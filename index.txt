@@ -1,0 +1,49 @@
+_Thanks for showcasing your awesome work on the Cesium website!_  
+
+
+## For the [main demos page](http://cesiumjs.org/demos.html), please provide:
+
+title: The i_city E-bike sharing.
+
+description: Replace this text with a short phrase concisely describing your app. Catch readers' attention and avoid overwhelming them with details.
+description:
+
+img: "representative-screenshot.jpg"  This screenshot (450x300 pixels) should show your app in all its glory. Put the image file in the same directory as this file.  
+
+
+## For your demo's page, please describe your project:
+
+Replace this paragraph with 2-6 paragraphs describing your app. Tell a compelling story.   
+Assume the reader is not familiar with your app or the market it serves; provide context in your introduction paragraph. Most of our readers are interested in technical content, so explain your project in clear terms, without empty marketing phrases. As the developers of our open-source library, we cannot publish judgments of projects, so avoid comparisons such as "best," "fastest," etc.
+
+* Use a few sentences or a full paragraph to explain what Cesium features you are using.  
+
+* Include your company name and/or your name.  
+
+* Include links to your app, website, etc. 
+
+* If the app previously used Google Earth, NASA World Wind, Skyline, or another virtual globe engine, please mention it and your experience migrating to Cesium.  
+
+* Use only plain text or Markdown syntax so we can style and integrate it with our Jekyll-based website.  
+
+## For your demo's page, please also provide images of your project:
+
+Provide 3-5 full-resolution screenshots with a 4x3 aspect ratio, e.g., 800x600 (one can be the same as the representative screenshot for the main page, but at full resolution).  Put the image files in the same directory as this file.
+
+If you have a video to include, please provide a link to it, as we can embed but not host videos. 
+
+
+
+_For a few examples, see:_  
+
+* [NORAD Tracks Santa](http://cesiumjs.org/demos/noradtrackssanta.html)
+
+* [ATO Visualizer](http://cesiumjs.org/demos/atovisualizer.html)
+
+* [Australia's National Map](http://cesiumjs.org/demos/nationalmap.html)
+
+* [EarthKAM Explorer](http://cesiumjs.org/demos/earthkamexplorer.html)
+
+_Thanks again for showcasing your work. You rock!_
+
+
