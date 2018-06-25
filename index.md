@@ -20,6 +20,8 @@ This application is part of my master thesis work in a topic of "Visualization a
 ![picture](img/i_cityEbikeSharing.png)
 ![picture](img/iCity_Mappin.png)
 ![picture](img/SystemArchitechture.png)
+## Video:
+https://youtu.be/Czko1rShVXo
 
 ## Contact
 Thunyathep (Joe), Santhanavanich, M. Sc.
